@@ -1,5 +1,5 @@
 {
-  "name": "typescript-formatter",
+  "name": "typescript-formatter-web",
   "version": "0.0.1",
   "description": "字符串按typescript格式化",
   "main": "lib/index.js",
